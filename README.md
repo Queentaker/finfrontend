@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Stock feature analysis with LLM Augmentation (Frontend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It uses React+Typescript+Tailwind.
 
 ## Available Scripts
 
